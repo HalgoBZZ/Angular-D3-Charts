@@ -1,0 +1,10 @@
+.pie-chart-sub-category {
+	width: 38px;
+	height: 38px;
+	position: relative;
+	z-index: 2;
+}
+.pie-chart-sub-category svg {
+	margin-top: 2px;
+	margin-left: 2px;
+}
